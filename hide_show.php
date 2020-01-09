@@ -16,7 +16,7 @@ $(document).ready(function(){
 <body>
 
 <p>If you click on the "Hide" button, I will disappear.</p>
-
+  <p>bhdjfgjh</p>
 <button id="hide">Hide</button>
 <button id="show">Show</button>
 
